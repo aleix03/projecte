@@ -1,0 +1,1 @@
+{"reqId":"u0JjgDqLWU7jD0Xl1C0I","level":3,"time":"2021-05-24T17:13:09+00:00","remoteAddr":"192.168.1.34","user":"--","app":"PHP","method":"POST","url":"\/usuaris\/aleix\/owncloud\/index.php","message":"Undefined index: dbconnectionstring at \/var\/www\/aecompany\/usuaris\/aleix\/owncloud\/lib\/private\/Setup\/AbstractDatabase.php#82"}
